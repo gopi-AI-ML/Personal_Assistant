@@ -26,7 +26,7 @@ This is a simple Python-based Voice Assistant that listens for wake words and ex
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies (e.g., `speech_recognition`, `pyttsx3`, etc.):
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 # Run the main script
    ```bash
