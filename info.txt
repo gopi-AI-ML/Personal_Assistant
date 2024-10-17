@@ -1,0 +1,7 @@
+2024-10-17 23:15:18,506 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\krish\\AppData\\Roaming\\Python\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-10-17 23:15:18,506 - Using writeable comtypes cache directory: 'C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\comtypes\gen'
+2024-10-17 23:15:44,536 - open website hackerrank
+2024-10-17 23:15:57,245 - close the chrome
+2024-10-17 23:16:07,475 - open camera
+2024-10-17 23:16:26,853 - close the camera
+2024-10-17 23:16:38,700 - deactivate assistant
