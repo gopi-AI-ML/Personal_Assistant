@@ -49,4 +49,5 @@ AI-Voice-Assistant/
    pip install -r requirements.txt
 
 # Run the main script
-python main.py
+   ```bash
+   python main.py
