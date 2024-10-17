@@ -13,26 +13,6 @@ This is a simple Python-based Voice Assistant that listens for wake words and ex
 "Stop the Assistant": Ends the assistant's execution gracefully.
 "Deactivate Assistant": Returns to the standby mode for wake word listening after completing a session of command execution.
 
-## Project Structure
-AI-Voice-Assistant/
-│
-├── Assistant/
-│   ├── Assistant_Code/
-│   │   ├── __init__.py                  # Package initializer
-│   │   ├── speech_test.py               # VoiceAssistant class for handling speech recognition
-│   │   ├── speak_test.py                # Function for text-to-speech (speak function)
-│   │   ├── commands.py                  # Contains the execute_command function for processing commands
-│   │
-│   ├── Assistant_Info/
-│   │   ├── __init__.py                  # Package initializer
-│   │   ├── exception.py                 # Custom exception handling (CustomException class)
-│   │   ├── logger.py                    # Logging setup for debugging and tracking commands
-│
-├── main.py                              # Main entry point for running the assistant
-├── requirements.txt                     # List of dependencies required (e.g., SpeechRecognition, pyttsx3)
-├── README.md                            # Project documentation and usage instructions
-└── .gitignore                           # Optional: Files and directories to ignore in version control
-
 ### Files Explained:
 
 - **`speech_test.py`**: Contains the `VoiceAssistant` class that manages listening for wake words and commands.
