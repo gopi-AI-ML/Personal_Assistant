@@ -1,7 +1,4 @@
-2024-10-17 23:15:18,506 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\krish\\AppData\\Roaming\\Python\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
-2024-10-17 23:15:18,506 - Using writeable comtypes cache directory: 'C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\comtypes\gen'
-2024-10-17 23:15:44,536 - open website hackerrank
-2024-10-17 23:15:57,245 - close the chrome
-2024-10-17 23:16:07,475 - open camera
-2024-10-17 23:16:26,853 - close the camera
-2024-10-17 23:16:38,700 - deactivate assistant
+2025-02-25 20:55:34,696 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\krish\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-25 20:55:34,696 - Using writeable comtypes cache directory: 'C:\Users\krish\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2025-02-25 20:55:44,483 - capture video
+2025-02-25 20:55:55,101 - stop video recording

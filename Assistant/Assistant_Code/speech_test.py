@@ -6,19 +6,19 @@ class VoiceAssistant:
     def __init__(self):
         self.recognizer = sr.Recognizer()
 
-    # Function to listen for the wake word
-    def listen_for_wake_word(self):
-        try:
-            with sr.Microphone() as source:
-                print("Listening for wake word ('Activate Assistant !!')...")
-                self.recognizer.adjust_for_ambient_noise(source, duration=1)  # Adjust for noise
-                audio = self.recognizer.listen(source)
-                wake_word = self.recognizer.recognize_google(audio).lower()
-                return wake_word
-        except sr.UnknownValueError:
-            return ""  # If nothing is recognized, return an empty string
-        except Exception as e:
-            raise CustomException(e, sys)
+    # # Function to listen for the wake word
+    # def listen_for_wake_word(self):
+    #     try:
+    #         with sr.Microphone() as source:
+    #             print("Listening for wake word ('Activate Assistant !!')...")
+    #             self.recognizer.adjust_for_ambient_noise(source, duration=1)  # Adjust for noise
+    #             audio = self.recognizer.listen(source)
+    #             wake_word = self.recognizer.recognize_google(audio).lower()
+    #             return wake_word
+    #     except sr.UnknownValueError:
+    #         return ""  # If nothing is recognized, return an empty string
+    #     except Exception as e:
+    #         raise CustomException(e, sys)
     
     def listen_for_command(self):
         """

@@ -2,5 +2,4 @@ SpeechRecognition
 pyaudio
 gtts
 pyttsx3
-webbrowser
 -e .
