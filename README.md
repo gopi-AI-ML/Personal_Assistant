@@ -88,17 +88,22 @@ A **Voice-Controlled Virtual Assistant** built using Python that can perform var
 
 ## 🏆 Achievements
 
-✅ **Improved speech recognition accuracy by 32%** by optimizing noise filtering.
-✅ **Reduced CPU load by 40%** by implementing multithreading for video processing.
-✅ **Reduced error rate by 25%** with structured logging and exception handling.
-✅ **Accelerated response time by 50%** by optimizing command execution.
+✅ **Improved speech recognition accuracy by 32%** by optimizing noise filtering. 
+
+✅ **Reduced CPU load by 40%** by implementing multithreading for video processing. 
+
+✅ **Reduced error rate by 25%** with structured logging and exception handling. 
+
+✅ **Accelerated response time by 50%** by optimizing command execution. 
 
 ---
 
 ## 🔮 Future Enhancements
 
 🔹 **Integrate AI-based NLP** for advanced command understanding.
+
 🔹 **Add support for custom user-defined commands**.
+
 🔹 **Implement integration with third-party APIs** (e.g., weather, news, calendar).
 
 ---
